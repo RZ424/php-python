@@ -5,5 +5,5 @@ def plus_grand_nombre(liste):
             max_nombre = i
     return max_nombre
 
-print(plus_grand_nombre([3, 57, 23, 56])) # Affiche 58
+print(plus_grand_nombre([3, 57, 23, 56]))
 
